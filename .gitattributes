@@ -1,1 +1,2 @@
-db/** linguist-documentation=false
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
