@@ -6,13 +6,13 @@ Run `\. rebuild.sql` to create the database and all of its contents. There are v
 
 Examples:
 
-![query example]()
+![query example](docs/query_example.png)
 
-![python frontend example]()
+![python frontend example](docs/frontend_example.png)
 
 The design of the database is as follows:
 
-![database ERD]()
+![database ERD](docs/ERD.png)
 
 
 
